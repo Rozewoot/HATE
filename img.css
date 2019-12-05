@@ -1,0 +1,13 @@
+body {
+background: url(images/back.jpg);
+color: white;
+}
+p {
+margin-left: 10px;
+width: 50em;
+}
+.name {
+color: #c44a41;
+font-style: italic;
+font-weight: bold;
+}
